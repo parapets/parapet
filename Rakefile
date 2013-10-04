@@ -1,6 +1,6 @@
 require "bundler/gem_tasks"
 
-PROJECTS = %w{parapets-core parapets-entity parapets-interactor}
+PROJECTS = %w{parapet-core parapet-entity parapet-interactor}
 
 desc 'Run all tests by default'
 task :default => :spec

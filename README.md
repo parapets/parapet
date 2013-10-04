@@ -1,4 +1,7 @@
-# Parapets
+# Parapet
+
+> A low protective wall or railing along the edge of a raised structure 
+> such as a roof or balcony.
 
 TODO: Write a gem description
 
@@ -6,7 +9,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'parapets'
+    gem 'parapet'
 
 And then execute:
 
@@ -14,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install parapets
+    $ gem install parapet
 
 ## Usage
 
