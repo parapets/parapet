@@ -1,7 +1,4 @@
-require "parapets/entity/version"
+require "parapets-core"
+require "active_model"
 
-module Parapets
-  module Entity
-    # Your code goes here...
-  end
-end
+require "parapets/entity/base"

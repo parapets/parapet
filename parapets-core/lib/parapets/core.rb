@@ -1,7 +1,3 @@
-require "parapets/core/version"
+require "parapets/version"
 
-module Parapets
-  module Core
-    # Your code goes here...
-  end
-end
+require "active_support/concern"

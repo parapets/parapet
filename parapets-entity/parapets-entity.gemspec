@@ -1,5 +1,5 @@
 # coding: utf-8
-require File.expand_path('../../version',__FILE__)
+require File.expand_path('../../parapets-core/lib/parapets/version',__FILE__)
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.files         = ["README.md", "lib/**/*"]
 
   s.add_dependency "parapets-core", Parapets::VERSION
+  s.add_dependency 'virtus', '~> 1.0.0.rc1'
   s.add_dependency 'activemodel', '~> 4.0.0'
 
 end

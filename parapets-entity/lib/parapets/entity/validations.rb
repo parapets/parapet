@@ -1,5 +1,6 @@
 module Parapets
   module Entity
-    VERSION = "0.0.1"
+    module Validations
+    end
   end
 end
