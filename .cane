@@ -1,0 +1,4 @@
+--abc-glob parapets-*/lib/**/*.rb
+--style-glob parapets-*/{lib,spec}/**/*.rb
+--doc-glob parapets-*/lib/**/*.rb
+--color
